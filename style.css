@@ -66,6 +66,26 @@ button:hover{
     background-image: url("background.png");
 }
 
+.charmander{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial";
+    gap: 16px;
+    background-image: url("wallcharmander.jpg");
+}
+
+.pokebola{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Arial";
+    gap: 16px;
+    background-image: url("wallpokemon.jpg");
+}
+
 .card{
     display: flex;
     flex-direction: column;
